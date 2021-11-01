@@ -9,7 +9,7 @@ from symcollab.moe.check import MOOCheckResult
 import os.path
 import pickle
 
-MOO_FILE = "1.pickle"
+MOO_FILE = "saved_moo_experiments_v3.pickle"
 
 moo_tested: Optional[Dict[Term, Optional[MOOCheckResult]]] = None
 
