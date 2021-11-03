@@ -1,6 +1,6 @@
 # CryptoSolve
 
-To install run the following in the terminal at the root directory of the project:
+To install, run the following in the terminal at the root directory of the project:
 ```bash
 ./install.sh
 source ~/.profile
@@ -21,6 +21,16 @@ To see, from the root directory:
 ```bash
 cd examples
 python3 custom_moo.py
+```
+
+You can checkout the web interface by running the following in the terminal
+```bash
+moo_website
+```
+
+You can checkout the terminal interface by running the following in the terminal
+```bash
+moo_tool
 ```
 
 
