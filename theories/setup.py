@@ -1,7 +1,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(name="symcollab-theories",
-    version="0.1.1",
+    version="0.2.0",
     packages=find_namespace_packages(include=["symcollab.*"]),
     url="https://github.com/symcollab/cryptosolve",
     install_requires = [

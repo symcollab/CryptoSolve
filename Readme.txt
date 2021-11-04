@@ -25,12 +25,14 @@ python3 custom_moo.py
 
 You can checkout the web interface by running the following in the terminal
 ```bash
-moo_website
+cd moe
+./moo_website
 ```
 
 You can checkout the terminal interface by running the following in the terminal
 ```bash
-moo_tool
+cd moe
+./moo_tool
 ```
 
 
